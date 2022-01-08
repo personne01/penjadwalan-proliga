@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 
 export default function jadwal(){
     return(
-        <Layout>
+        <Layout pageTitle="Program Penjadwalan">
                 <h1>Hasil Drawing Liga Futsal Profesional Indonesia</h1>    
         </Layout>
     )

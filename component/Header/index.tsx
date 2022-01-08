@@ -15,6 +15,9 @@ export default function Header() {
                 <li className={styles.item}>
                     <Link href="/jadwal">Masuk</Link>
                 </li>
+                <li className={styles.item}>
+                    <Link href="/users">User</Link>
+                </li>
             </ul>
         </header>
     )

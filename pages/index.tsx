@@ -6,7 +6,7 @@ import Layout from '../component/Layout'
 
 export default function Home() {
   return (
-      <Layout>
+      <Layout pageTitle="Beranda">
         <h1>Optimasi Jadwal Liga Profesional Futsal Indonesia</h1>
       </Layout>
   )

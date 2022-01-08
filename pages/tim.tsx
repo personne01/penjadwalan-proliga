@@ -5,7 +5,7 @@ import Layout from '../component/Layout'
 
 export default function tim(){
     return(
-        <Layout>
+        <Layout pageTitle="Info Tim">
             <h1>Tim Peserta Liga Futsal Profesional</h1>
         </Layout>
     )

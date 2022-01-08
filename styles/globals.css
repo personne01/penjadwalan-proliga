@@ -21,3 +21,9 @@ a {
 #__next {
   height: 100%;
 }
+
+.title-not-found {
+  text-align: center;
+  opacity: 80%;
+  margin: auto;
+}
