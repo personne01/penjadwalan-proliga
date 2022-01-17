@@ -4,10 +4,10 @@ import Link from 'next/link'
 import Layout from '../component/Layout'
 import styles from '../styles/Home.module.css'
 
-export default function jadwal(){
+export default function Jadwal(){
     return(
         <Layout pageTitle="Program Penjadwalan">
-                <h1>Hasil Drawing Liga Futsal Profesional Indonesia</h1>    
+                <h1>Jadwal Pertandingan Liga Futsal Profesional</h1>
         </Layout>
     )
 }
